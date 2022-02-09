@@ -1,0 +1,21 @@
+{
+    "name": "wine",
+    "displayName": "Wine",
+    "description": "Dark color theme inspired by large amounts of wine.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Wine",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Wine-color-theme.json"
+            }
+        ]
+    }
+}
