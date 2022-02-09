@@ -1,10 +1,20 @@
 {
     "name": "wine",
     "displayName": "Wine",
-    "description": "Dark color theme inspired by large amounts of wine.",
+    "description": "A VS Code dark theme inspired by large amounts of wine.",
+    "publisher": "pipeh",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.63.0"
+    },
+    "icon": "icons/wine.png",
+    "author": {
+        "name": "Felipe Hernández",
+        "url":"https://github.com/pipeh/"
+    },
+    "repository": {
+        "url": "https://github.com/pipeh/wine.git",
+        "type": "git"
     },
     "categories": [
         "Themes"
